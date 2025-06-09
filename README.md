@@ -1,0 +1,2 @@
+# MAVEN_SAMPLE
+测试用
